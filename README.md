@@ -13,3 +13,4 @@
 * Doogee X5 - Android 5.1
 * Teclast X80 Pro (E3E7) - Android 5.1
 * OnePlus  X - Android 6.0.1 (OxygenOS 3.4.1)
+* Samsung S7 - Android 8.0.0
